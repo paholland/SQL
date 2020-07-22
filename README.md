@@ -1,7 +1,7 @@
 ## SQL Project (Employee Database)
 
 
-   To perform a research project on employees of the corporation from the 1980s and 1990s (database of employees are six CSV files); to design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data (data engineering and data analysis). 
+   To perform a research project on employees of the corporation from the 1980s and 1990s (database of employees in .csv files); to design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data (data engineering and data analysis). 
 
 Data Engineering (all table schemas run withour error; entity relarionship diagram includes all correct tables; both the ERD and table schemas have all required columns; all columns are set to correct data type; primary keys set for each table; tables are correctly related using foreign keys)
 
