@@ -9,5 +9,5 @@ Data Analysis (provided queries for all questions; all queries provide the wxpec
 
 Additional/make corrections (queries tables from the postgres database into pandas dataframes, replaces null values, generates and average salary pbar cart from a pandas dataframe; plot has titles and axes labels)
 
-Jupyter Notebook, SQL, Postgres
+###  SQL, Postgres, Jupyter Notebook
 
